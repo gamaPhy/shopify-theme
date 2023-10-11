@@ -20,7 +20,7 @@
     {%- endunless -%}
 
     <title>
-      {{ page_title }}
+        test {{ page_title }}
       {%- if current_tags %} &ndash; tagged "{{ current_tags | join: ', ' }}"{% endif -%}
       {%- if current_page != 1 %} &ndash; Page {{ current_page }}{% endif -%}
       {%- unless page_title contains 'gampaPhy' %} &ndash; gampaPhy {% endunless -%}
