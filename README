@@ -4,6 +4,6 @@
 Install [Shopify CLI](https://shopify.dev/docs/themes/tools/cli/install)
 
 ```bash
-$ . ./env_setup.sh
-$ shopify theme dev
+. ./env_setup.sh
+shopify theme dev
 ```
