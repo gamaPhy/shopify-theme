@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Orders will not be shipped from November 22 to  November 26 for Thanksgiving 🦃",
+            "text": "🦃 Orders will not be shipped from November 22 to  November 26 due to Thanksgiving holiday🦃",
             "text_alignment": "center",
             "color_scheme": "background-1",
             "link": ""
